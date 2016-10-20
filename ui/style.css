@@ -19,5 +19,6 @@ body {
 
 .img-medium {
     height: 200px;
+    border-radius: 100px
 }
 
